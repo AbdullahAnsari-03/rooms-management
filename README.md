@@ -61,6 +61,7 @@ A modern React-based hotel room booking management system designed to help hotel
 * React.js
 * React Router DOM
 * Vite
+* Modern CSS
 * Context API
 
 ### Libraries
