@@ -53,6 +53,14 @@ A modern React-based hotel room booking management system designed to help hotel
 * Efficient booking lookup structure for fast rendering
 
 ---
+## Screenshots:
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/7231367e-29b1-4489-b7d8-e41ec69a67e2" />
+
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/61404a38-f436-41df-a6ba-d22b6f3b3836" />
+
+<img width="1906" height="948" alt="image" src="https://github.com/user-attachments/assets/e9eb5ba3-5637-4f45-9961-fd78f42d2aa0" />
+
+--- 
 
 ## 🛠️ Tech Stack
 
